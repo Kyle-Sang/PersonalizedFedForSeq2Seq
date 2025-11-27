@@ -1,2 +1,0 @@
-Rounds,Learning Rate,Client Fraction,Client Number,Local Epochs,Batch Size,Hidden Size,Weighting,Lexical Weighting
-40,0.001,1.0,3,5,32,128,False,True

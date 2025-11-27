@@ -1,0 +1,7 @@
+numpy
+torch
+matplotlib
+tqdm
+sacrebleu
+optuna
+jupyter
